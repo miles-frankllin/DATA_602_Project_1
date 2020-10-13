@@ -12,7 +12,7 @@ Job creation and automation has been a deeply American issue since at least the 
 [Technical Notebok](https://github.com/miles-frankllin/DATA_602_Project_1/blob/main/Notebooks/Technical_Notebook.ipynb) -
 [Web Scraping NoteBook]( https://github.com/miles-frankllin/DATA_602_Project_1/blob/main/Notebooks/Web_Scrapping.ipynb) –
 [Exploration NoteBook](https://github.com/miles-frankllin/DATA_602_Project_1/blob/main/Notebooks/Exploratory_Analysis.ipynb) -
-[Data – BLS](https://www.bls.gov/ooh/a-z-index.htm)
+[BLS Data](https://www.bls.gov/ooh/a-z-index.htm)
 
 ## Requirements
 <pre>
